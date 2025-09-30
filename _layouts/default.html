@@ -38,8 +38,8 @@
           {{ content }}
         </section>
 
-        <aside id="sidebar"></aside>
-          <a href="https://[Your GitHub Username].github.io/repository0name/" class="button">Home</a>
+        <aside id="sidebar">
+          <a href="{{ '/' | absolute_url }}" class="button">Home</a>
           <a href="teaching" class="button">Teaching</a>
           <a href="projects" class="button">Projects</a>
           {% if site.show_downloads %}
@@ -64,17 +64,3 @@
 
   </body>
 </html>
----
-layout: default
-title: Teaching Experience
----
-
-# Teaching Experience
-
-## Course 1
-- Description
-- Semester Taught
-
-## Course 2
-- Description
-- Semester Taught
