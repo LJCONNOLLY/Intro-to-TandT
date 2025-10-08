@@ -21,3 +21,25 @@
   position: relative;
   z-index: 100; /* This makes it appear above other elements */
 }
+/* Change all maroon to sage green */
+.ribbon-outer {
+  background: #9CAF88 !important; /* Sage green */
+}
+
+.ribbon-inner {
+  background: #9CAF88 !important;
+}
+
+/* Change link colors to sage green */
+a {
+  color: #7A9B6F !important; /* Darker sage for links */
+}
+
+a:hover {
+  color: #A8B89F !important; /* Lighter sage on hover */
+}
+
+/* If there are other maroon accents */
+h1, h2, h3, h4, h5, h6 {
+  color: #7A9B6F !important;
+}
