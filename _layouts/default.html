@@ -37,7 +37,11 @@
           <span class="right-tail"></span>
         </div>
       </header>
-
+<nav class="site-nav">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <a href="{{ '/Projects/' | relative_url }}">Projects</a>
+  <a href="{{ '/Teaching/' | relative_url }}">Teaching</a>
+</nav>
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">

@@ -1,1 +1,16 @@
-@import 
+@import .site-nav {
+  background: #333;
+  padding: 1rem;
+  text-align: center;
+}
+
+.site-nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.site-nav a:hover {
+  background: #555;
+}
