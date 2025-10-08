@@ -14,3 +14,10 @@
 .site-nav a:hover {
   background: #555;
 }
+.site-nav {
+  background: #333;
+  padding: 1rem;
+  text-align: center;
+  position: relative;
+  z-index: 100; /* This makes it appear above other elements */
+}
