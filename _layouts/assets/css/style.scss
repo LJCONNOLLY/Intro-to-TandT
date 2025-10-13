@@ -1,7 +1,11 @@
-@import .site-nav {
+@import "{{ site.theme }}";
+
+.site-nav {
   background: #333;
   padding: 1rem;
   text-align: center;
+  position: relative;
+  z-index: 100;
 }
 
 .site-nav a {
@@ -14,13 +18,7 @@
 .site-nav a:hover {
   background: #555;
 }
-.site-nav {
-  background: #333;
-  padding: 1rem;
-  text-align: center;
-  position: relative;
-  z-index: 100; /* This makes it appear above other elements */
-}
+
 /* Change all maroon to sage green */
 .ribbon-outer {
   background: #9CAF88 !important; /* Sage green */
