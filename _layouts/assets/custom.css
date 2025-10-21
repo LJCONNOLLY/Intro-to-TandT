@@ -1,33 +1,52 @@
-/* Force navigation bar below header */
-header {
-    position: relative !important;
-    margin-bottom: 0 !important;
+/* Reset header positioning */
+.shell header {
+    position: static !important;
+    display: block !important;
 }
 
+.ribbon-outer {
+    position: relative !important;
+    display: block !important;
+    margin-bottom: 20px !important;
+}
+
+.ribbon-inner {
+    position: relative !important;
+}
+
+/* Push navigation way down */
 .site-nav {
     display: block !important;
     clear: both !important;
-    margin-top: 40px !important;
-    padding: 20px 0 !important;
+    margin-top: 80px !important;
+    padding: 25px 0 !important;
     position: relative !important;
     z-index: 9999 !important;
-    background-color: #f5f5f0;
+    background-color: #f5f5f0 !important;
+    width: 100% !important;
 }
 
 .site-nav a {
-    margin: 0 20px;
-    color: #704555;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 1.1rem;
+    margin: 0 20px !important;
+    color: #704555 !important;
+    text-decoration: none !important;
+    font-weight: 600 !important;
+    font-size: 1.1rem !important;
 }
 
 .site-nav a:hover {
-    opacity: 0.7;
+    opacity: 0.7 !important;
 }
 
-/* Make sure ribbon tails don't overlap */
-.ribbon-outer .left-tail,
-.ribbon-outer .right-tail {
-    position: relative !important;
+/* Force the banner-fix span to clear */
+.banner-fix {
+    display: block !important;
+    clear: both !important;
+    height: 20px !important;
+}
+
+/* Ensure main content is below nav */
+#main_content {
+    margin-top: 40px !important;
+    clear: both !important;
 }
