@@ -1,0 +1,33 @@
+/* Force navigation bar below header */
+header {
+    position: relative !important;
+    margin-bottom: 0 !important;
+}
+
+.site-nav {
+    display: block !important;
+    clear: both !important;
+    margin-top: 40px !important;
+    padding: 20px 0 !important;
+    position: relative !important;
+    z-index: 9999 !important;
+    background-color: #f5f5f0;
+}
+
+.site-nav a {
+    margin: 0 20px;
+    color: #704555;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.site-nav a:hover {
+    opacity: 0.7;
+}
+
+/* Make sure ribbon tails don't overlap */
+.ribbon-outer .left-tail,
+.ribbon-outer .right-tail {
+    position: relative !important;
+}
