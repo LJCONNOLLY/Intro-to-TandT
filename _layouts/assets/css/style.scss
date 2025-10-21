@@ -106,3 +106,14 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 900px;
     margin: 0 auto 30px auto;
 }
+.site-nav {
+    clear: both;
+    margin-top: 30px;
+    padding: 20px 0;
+    position: relative;
+    z-index: 100;
+}
+
+.ribbon-outer {
+    margin-bottom: 0; /* Remove any negative margins */
+}
