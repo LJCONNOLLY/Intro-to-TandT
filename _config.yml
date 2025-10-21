@@ -1,5 +1,8 @@
 # Site settings
 title: LJ Connolly
+first_name: LJ
+middle_name: 
+last_name: Connolly
 email: LJConnolly@ucf.edu
 description: Writer, Editor, Designer, and Teacher
 
@@ -8,8 +11,8 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 # URL settings
-url: https://ljconnolly.github.io/Intro-to-TandT/
-baseurl: # leave empty for username.github.io, or use /repository-name for project pages
+url: https://ljconnolly.github.io
+baseurl: /Intro-to-TandT
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -75,8 +78,8 @@ collections:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Name]  # CHANGE THIS to your last name
-  first_name: [Your]  # CHANGE THIS to your first name
+  last_name: [Connolly]
+  first_name: [LJ]
 
   style: apa
   locale: en
@@ -125,11 +128,11 @@ jekyll-minifier:
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub username  # CHANGE THIS
-twitter_username: # your Twitter username  # CHANGE THIS (optional)
-linkedin_username: # your LinkedIn username  # CHANGE THIS (optional)
-scholar_userid: # your Google Scholar ID  # CHANGE THIS (optional)
-orcid_id: # your ORCID ID  # CHANGE THIS (optional)
+github_username: LJCONNOLLY
+twitter_username: # your Twitter username (optional)
+linkedin_username: # your LinkedIn username (optional)
+scholar_userid: # your Google Scholar ID (optional)
+orcid_id: # your ORCID ID (optional)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -172,5 +175,3 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
-title: LJ Connolly
-description: Writer, Researcher, Editor, and Teacher 
