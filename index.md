@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Home
----
-
 # Home
 
 <h1 class="page-title">Hi! I'm LJ Connolly!</h1>
