@@ -21,8 +21,9 @@
 {% seo %}
 
 {% include head-custom.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   </head>
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
   <body>
     <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
     <div class="shell">
@@ -37,11 +38,13 @@
           <span class="right-tail"></span>
         </div>
       </header>
-<nav class="site-nav">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/Projects/' | relative_url }}">Projects</a>
-  <a href="{{ '/Teaching/' | relative_url }}">Teaching</a>
-</nav>
+
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/Projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/Teaching/' | relative_url }}">Teaching</a>
+      </nav>
+
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
@@ -55,9 +58,7 @@
         </div>
       {% endif %}
 
-
       <span class="banner-fix"></span>
-
 
       <section id="main_content">
         {{ content }}
