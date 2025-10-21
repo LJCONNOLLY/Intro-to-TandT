@@ -41,3 +41,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   color: #7A9B6F !important;
 }
+.site-nav {
+  position: relative; /* or fixed if you want it stuck to the top */
+  z-index: 9999;
+}
