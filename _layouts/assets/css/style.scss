@@ -69,3 +69,40 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
   text-align: left; /* left alignment */
 }
+/* Homepage Redesign */
+.page-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #704555;
+}
+
+.bio-text {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    margin-bottom: 30px;
+    color: #444;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio-text strong {
+    color: #704555;
+    font-weight: 600;
+}
+
+.home-hero h1.hero {
+    font-size: 3.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.lead {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+}
