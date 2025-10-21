@@ -45,3 +45,27 @@ h1, h2, h3, h4, h5, h6 {
   position: relative; /* or fixed if you want it stuck to the top */
   z-index: 9999;
 }
+.home-hero {
+  padding: 2rem 1rem;
+  max-width: 80ch;
+  margin: 0 auto;
+}
+
+.hero {
+  font-size: clamp(2rem, 5vw, 4rem); /* big and responsive */
+  font-weight: 800;
+  line-height: 1.02;
+  margin: 0 0 0.5rem 0;
+  letter-spacing: -0.5px;
+  color: #111;
+  text-align: left; /* left alignment */
+}
+
+.lead {
+  font-size: clamp(1rem, 2.2vw, 1.25rem); /* larger than body, smaller than hero */
+  color: #333;
+  max-width: 70ch;
+  margin: 0.75rem 0 0;
+  line-height: 1.6;
+  text-align: left; /* left alignment */
+}
