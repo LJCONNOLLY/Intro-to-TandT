@@ -14,6 +14,7 @@ University of Central Florida
 
 ---
 
+
 As both a student and educator, I bring a unique dual perspective to creating digital innovations that enhance learning, drawing on my research insights and classroom experience to develop tools and approaches that truly serve students.
 
 As someone immersed in the interdisciplinary field of Texts and Technology, I've developed a keen ability to demystify complex ideas, fostering understanding through inclusive discussions, meaningful feedback, and responsive support that honors each student's unique learning journey.
