@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![Profile Picture](/intro-to-TandT/assets/img/prof_pic.jpg){: width="300" style="float: right; margin-left: 20px; border-radius: 50%;"}
+![Profile Picture]({{ site.baseurl }}/assets/img/prof_pic.jpg){: width="300" style="float: right; margin-left: 20px; border-radius: 50%;"}
 
 ## Hi! I'm LJ Connolly!
 
