@@ -6,7 +6,7 @@ subtitle: Writer, Researcher, Editor, and Teacher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: https://via.placeholder.com/400
   image_circular: false
   more_info: >
     <p>University of Central Florida</p>
