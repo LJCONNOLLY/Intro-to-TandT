@@ -14,3 +14,39 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  # Site settings
+title: LJ Connolly
+first_name: LJ
+last_name: Connolly
+email: LJConnolly@ucf.edu
+description: Writer, Researcher, Editor, and Teacher
+
+url: https://ljconnolly.github.io # your GitHub Pages URL
+baseurl: /intro-to-TandT # your repo name with a leading slash
+
+# Profile picture
+profile:
+  image: prof_pic.jpg
+  
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
