@@ -1,52 +1,33 @@
-plugins:
-  - jekyll-archives
-  - jekyll-email-protect
-  - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll-scholar
-  - jekyll-sitemap
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
-  # Site settings
+# Site settings
 title: LJ Connolly
-first_name: LJ
-last_name: Connolly
 email: LJConnolly@ucf.edu
-description: Writer, Researcher, Editor, and Teacher
+description: >-
+  Writer, Researcher, Editor, and Teacher. Exploring the intersection of 
+  text, technology, and teaching.
+baseurl: "/intro-to-TandT"
+url: "https://ljconnolly.github.io"
 
-url: https://ljconnolly.github.io # your GitHub Pages URL
-baseurl: /intro-to-TandT # your repo name with a leading slash
-
-# Profile picture
-profile:
-  image: prof_pic.jpg
-  
 # Build settings
-markdown: kramdown
-permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Collections
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+# Minima settings
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/ljconnolly" }
+    - { platform: twitter, user_url: "https://twitter.com/yourusername" }
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# Author info
+author:
+  name: LJ Connolly
+  email: LJConnolly@ucf.edu
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
