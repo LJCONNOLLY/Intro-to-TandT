@@ -1,8 +1,8 @@
 # Site settings
 title: LJ Connolly
 email: LJConnolly@ucf.edu
-description: >-
-  Writer, Researcher, Editor, and Teacher. Exploring the intersection of 
+description:
+  Exploring the intersection of 
   text, technology, and teaching.
 baseurl: "/intro-to-TandT"
 url: "https://ljconnolly.github.io"
