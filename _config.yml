@@ -31,3 +31,8 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
+header_pages:
+  - cv.md
+  - research.md
+  - teaching.md
