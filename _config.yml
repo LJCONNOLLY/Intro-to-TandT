@@ -8,7 +8,7 @@ baseurl: "/intro-to-TandT"
 url: "https://ljconnolly.github.io"
 
 # Build settings
-theme: minima
+theme: solarized-light
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
