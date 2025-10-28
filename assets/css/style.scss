@@ -2,8 +2,6 @@
 ---
 
 @charset "utf-8";
-$sol-is-light: true;
-@import "minima/skins/solarized";
 
 // Earthy color palette
 $earth-brown: #8B4513;
@@ -13,6 +11,9 @@ $clay: #B85C38;
 $sand: #F4E4C1;
 $deep-forest: #3D5A3D;
 $warm-cream: #FAF3E0;
+
+// Import minima without a skin (we'll override the colors)
+@import "minima";
 
 // Override background colors
 body {
