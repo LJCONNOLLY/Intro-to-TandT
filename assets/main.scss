@@ -30,3 +30,14 @@ a {
 p {
   margin-bottom: 1rem;
 }
+.profile-section {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
