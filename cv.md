@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Your CV content goes here.
+Your CV content goes here....
