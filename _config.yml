@@ -15,6 +15,7 @@ plugins:
 
 # Minima settings
 minima:
+  skin: solarized-light
   social_links:
     - { platform: github, user_url: "https://github.com/ljconnolly" }
     - { platform: twitter, user_url: "https://twitter.com/yourusername" }
