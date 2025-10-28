@@ -8,14 +8,14 @@ baseurl: "/intro-to-TandT"
 url: "https://ljconnolly.github.io"
 
 # Build settings
-theme: minima
+theme: solarized-light
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # Minima settings
 minima:
-  skin: solarized-light
+  skin: auto
   social_links:
     - { platform: github, user_url: "https://github.com/ljconnolly" }
     - { platform: twitter, user_url: "https://twitter.com/yourusername" }
