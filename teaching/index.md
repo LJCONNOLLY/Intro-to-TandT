@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching Experience
+nav_order: 4
 permalink: /teaching/
 ---
 
