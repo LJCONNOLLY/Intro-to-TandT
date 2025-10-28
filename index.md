@@ -5,7 +5,7 @@ title: Home
 
 ## My Digital Portfolio
 
-![Alt text for the image](prof_pic.jpg "LJ Connolly")
+!(prof_pic.jpg "LJ Connolly")
 
 Hello! I’m **[Your Name]**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and culture**. This site showcases my ongoing projects, teaching materials, and scholarly work in digital writing and media studies.
 
