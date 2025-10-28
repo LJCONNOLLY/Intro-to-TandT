@@ -83,3 +83,40 @@ p {
   color: #007bff;
   margin: 0 1rem;
 }
+// Make text bigger and easier to read
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+// Make navigation links bigger too
+.site-nav .page-link {
+  font-size: 1.1rem;
+  margin: 0 1.5rem;
+}
+
+.site-title {
+  font-size: 1.8rem;
+}
