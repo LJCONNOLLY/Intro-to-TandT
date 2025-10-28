@@ -1,0 +1,118 @@
+---
+---
+
+@charset "utf-8";
+$sol-is-light: true;
+@import "minima/skins/solarized";
+
+// Earthy color palette
+$earth-brown: #8B4513;
+$warm-terracotta: #C86432;
+$sage-green: #87A96B;
+$clay: #B85C38;
+$sand: #F4E4C1;
+$deep-forest: #3D5A3D;
+$warm-cream: #FAF3E0;
+
+// Override background colors
+body {
+    background-color: $warm-cream;
+    color: #3E2723;
+}
+
+// Header styling
+.site-header {
+    background-color: $earth-brown;
+    border-top: 5px solid $clay;
+    border-bottom: 2px solid $sage-green;
+}
+
+.site-title,
+.site-title:visited {
+    color: $warm-cream !important;
+}
+
+.site-nav .page-link {
+    color: $sand;
+    
+    &:hover {
+        color: $sage-green;
+    }
+}
+
+// Link colors
+a {
+    color: $deep-forest;
+    
+    &:visited {
+        color: darken($deep-forest, 10%);
+    }
+    
+    &:hover {
+        color: $warm-terracotta;
+        text-decoration: none;
+        border-bottom: 2px solid $sage-green;
+    }
+}
+
+// Heading colors
+h1, h2, h3, h4, h5, h6 {
+    color: $earth-brown;
+}
+
+h1 {
+    border-bottom: 3px solid $sage-green;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: $clay;
+    border-bottom: 2px solid rgba(135, 169, 107, 0.3);
+    padding-bottom: 8px;
+}
+
+// Post styling
+.post-title {
+    color: $earth-brown;
+}
+
+.post-meta {
+    color: #6D4C41;
+}
+
+// Footer
+.site-footer {
+    background-color: #E8DCC4;
+    border-top: 3px solid $sage-green;
+    color: #5D4037;
+}
+
+.footer-heading {
+    color: $earth-brown;
+}
+
+// Buttons and accents
+.button, 
+button,
+input[type="submit"] {
+    background-color: $sage-green;
+    color: white;
+    border: 2px solid $deep-forest;
+    
+    &:hover {
+        background-color: $deep-forest;
+    }
+}
+
+// Code blocks
+pre, code {
+    background-color: #F5EFE6;
+    border: 1px solid $sand;
+}
+
+// Blockquotes
+blockquote {
+    border-left: 4px solid $sage-green;
+    background-color: rgba(250, 243, 224, 0.5);
+    color: #4E342E;
+}
