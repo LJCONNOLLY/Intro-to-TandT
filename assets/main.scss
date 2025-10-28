@@ -54,31 +54,32 @@ p {
   float: right;
   line-height: 3rem;
 }
-// Center the navigation bar
+// Center the navigation bar - UPDATED
 .site-header {
-  text-align: center;
+  text-align: center !important;
   border-bottom: 1px solid #e8e8e8;
   padding: 1rem 0;
 }
 
 .site-title {
-  display: block;
-  text-align: center;
-  margin-bottom: 0.5rem;
+  display: block !important;
+  float: none !important;
+  text-align: center !important;
+  margin: 0 auto 0.5rem !important;
 }
 
 .site-nav {
-  float: none;
-  text-align: center;
-  line-height: normal;
+  float: none !important;
+  text-align: center !important;
+  line-height: normal !important;
+  display: block !important;
 }
 
-.nav-items {
-  display: inline-block;
-  text-align: center;
+.site-nav .nav-trigger {
+  display: none;
 }
 
-.nav-item {
-  display: inline-block;
+.site-nav .page-link {
+  color: #007bff;
   margin: 0 1rem;
 }
