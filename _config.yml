@@ -1,38 +1,7 @@
-# Site settings
-title: LJ Connolly
-email: LJConnolly@ucf.edu
-description:
-  Exploring the intersection of 
-  text, technology, and teaching.
-baseurl: "/Intro-to-TandT"
-url: "https://ljconnolly.github.io"
+title: Portfolio Demo in Minima Theme
+description: Include a brief description of your portfolio here.
+theme: minima
 
-# Build settings
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Minima settings
-minima:
-  skin: jekyll-theme-minimal
-  social_links:
-    - { platform: github, user_url: "https://github.com/ljconnolly" }
-    - { platform: twitter, user_url: "https://twitter.com/yourusername" }
-
-# Author info
-author:
-  name: LJ Connolly
-  email: LJConnolly@ucf.edu
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-header_pages:
-  - cv.md
-  - research.md
-  - teaching.md
