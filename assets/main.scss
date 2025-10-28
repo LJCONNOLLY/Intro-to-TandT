@@ -45,9 +45,15 @@ p {
 }
 
 .site-title {
-  font-size: 1.5rem;
-  font-weight: normal;
-  letter-spacing: -0.5px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+// Make the main site title (blue heading) MUCH bigger
+.site-header .site-title {
+  font-size: 3.5rem !important;
+  font-weight: bold !important;
+  margin-bottom: 1rem !important;
 }
 
 .site-nav {
@@ -80,8 +86,9 @@ p {
 }
 
 .site-nav .page-link {
-  color: #007bff;
-  margin: 0 1rem;
+  font-size: 1.5rem !important;
+  margin: 0 1.5rem;
+  font-weight: 500;
 }
 // Make text bigger and easier to read
 // Make text MUCH bigger and easier to read
