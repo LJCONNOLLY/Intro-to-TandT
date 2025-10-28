@@ -3,20 +3,41 @@ layout: default
 title: Home
 ---
 
-<img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Profile Picture" width="300" style="float: right; margin-left: 20px; border-radius: 50%;">
+## LJ Connolly
 
-## Hi! I'm LJ Connolly!
+Hello! I’m **[Your Name]**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and culture**. This site showcases my ongoing projects, teaching materials, and scholarly work in digital writing and media studies.
 
-**Writer, Researcher, Editor, and Teacher**
+My work focuses on how digital environments shape communication practices, from social media narratives to multimodal composition. I’m especially interested in questions like:
 
-University of Central Florida  
-[LJConnolly@ucf.edu](mailto:LJConnolly@ucf.edu)
+* How do digital platforms transform what it means to “write”?
+* What new literacies emerge in online, interactive, or algorithmic spaces?
+* How can we teach writing that prepares students for a post-print world?
 
 ---
 
+### About This Site
 
-As both a student and educator, I bring a unique dual perspective to creating digital innovations that enhance learning, drawing on my research insights and classroom experience to develop tools and approaches that truly serve students.
+This portfolio serves as both a **professional showcase** and an **experimental space** for exploring the affordances of web-based composition. You’ll find:
 
-As someone immersed in the interdisciplinary field of Texts and Technology, I've developed a keen ability to demystify complex ideas, fostering understanding through inclusive discussions, meaningful feedback, and responsive support that honors each student's unique learning journey.
+* **[Projects](projects/)** – Research and creative work highlighting digital rhetoric, interface design, and online authorship.
+* **[Teaching](teaching/)** – Sample syllabi, assignments, and reflections on pedagogy in digital contexts.
+* **Blog or Updates** *(optional)* – Informal reflections, class updates, and posts about digital culture.
 
-My curriculum development draws from digital humanities, critical technology studies, and emerging media. I'm passionate about exploring where text, technology, and teaching intersect, and I'm committed to building interactive classrooms that foster student growth, digital literacy, and academic success.
+All content is built using **Markdown**, **GitHub Pages**, and **Jekyll**, demonstrating how web literacies intersect with scholarly communication.
+
+---
+
+### Current Work
+
+I’m currently developing a project that examines how working-class writers use digital platforms to share knowledge, build community, and challenge traditional literacy hierarchies. This research bridges **digital humanities**, **rhetoric and composition**, and **cultural studies**.
+
+---
+
+### Get in Touch
+
+If you’d like to collaborate, chat about digital writing, or learn more about my work, feel free to reach out:
+
+📧 [[youremail@example.com](mailto:youremail@example.com)]
+🔗 [LinkedIn](#) • [ORCID](#) • [GitHub](https://github.com/yourusername)
+
+---
