@@ -84,39 +84,48 @@ p {
   margin: 0 1rem;
 }
 // Make text bigger and easier to read
+// Make text MUCH bigger and easier to read
 body {
-  font-size: 18px;
-  line-height: 1.8;
+  font-size: 20px;
+  line-height: 1.9;
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
 }
 
 h2 {
+  font-size: 2.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
+
+h3 {
   font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
-h3 {
-  font-size: 1.5rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
-}
-
 p {
   margin-bottom: 1.5rem;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
+}
+
+li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
 }
 
 // Make navigation links bigger too
 .site-nav .page-link {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   margin: 0 1.5rem;
 }
 
 .site-title {
-  font-size: 1.8rem;
+  font-size: 2rem;
+  font-weight: bold;
 }
