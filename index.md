@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## LJ Connolly
+## My Digital Portfolio
 
 Hello! I’m **[Your Name]**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and culture**. This site showcases my ongoing projects, teaching materials, and scholarly work in digital writing and media studies.
 
