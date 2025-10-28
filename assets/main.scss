@@ -31,3 +31,26 @@ a {
 p {
   margin-bottom: 1rem;
 }
+// Better site styling
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: normal;
+  letter-spacing: -0.5px;
+}
+
+.site-nav {
+  float: right;
+  line-height: 3rem;
+}
