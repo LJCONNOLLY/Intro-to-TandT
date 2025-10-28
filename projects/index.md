@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Projects
-av_order: 3
 permalink: /projects/
 ---
 
