@@ -136,3 +136,17 @@ li {
   font-size: 2rem;
   font-weight: bold;
 }
+
+.nav-item {
+  display: inline-block;
+  margin: 0 10px;  /* Adds spacing between buttons */
+  padding: 8px 16px;  /* Adds padding inside each button */
+  background-color: #f0f0f0;  /* Light gray background */
+  border-radius: 5px;  /* Rounded corners */
+  text-decoration: none;  /* Removes underline */
+  transition: background-color 0.3s;  /* Smooth hover effect */
+}
+
+.nav-item:hover {
+  background-color: #e0e0e0;  /* Slightly darker on hover */
+}
