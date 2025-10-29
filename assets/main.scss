@@ -14,6 +14,8 @@ $dark-brown: #5C4A3A;
 /* Overall site styling */
 body {
   background-color: $cream;
+  color: $dark-brown;  /* Makes all text brown */
+  font-size: 1.1rem;  /* Makes body text bigger */
 }
 
 /* Header styling */
@@ -32,15 +34,19 @@ body {
 }
 
 /* Custom navigation styling with earthy colors */
+.nav-items {
+  white-space: nowrap;  /* Keeps buttons on one line */
+}
+
 .nav-item {
   display: inline-block;
-  margin: 0 20px;
-  padding: 18px 36px;
+  margin: 0 10px;  /* Reduced spacing so they fit on one line */
+  padding: 15px 28px;  /* Slightly smaller to fit better */
   background-color: $sage-green;
   color: #ffffff;
   border-radius: 8px;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.3rem;  /* Still large but fits better */
   font-weight: 600;
   transition: background-color 0.3s;
 }
@@ -67,4 +73,17 @@ a:hover {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   color: $dark-brown;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  color: $dark-brown;
+  font-size: 1.1rem;
 }
