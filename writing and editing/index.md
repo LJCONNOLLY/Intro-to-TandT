@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Teaching Experience
-permalink: /teaching/
+title: Writing and Editing
 ---
 
 ## Teaching Experience
