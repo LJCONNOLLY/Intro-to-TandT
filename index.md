@@ -3,17 +3,17 @@ layout: default
 title: Home
 ---
 
-## My Digital Portfolio
+## LJ Connolly | UX Researcher
 
 <img src="{{ '/assets/prof_pic.jpg' | relative_url }}" alt="LJ Connolly" class="profile-pic" style="display: block; margin: 2rem auto; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
-Hello! I’m **[Your Name]**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and culture**. This site showcases my ongoing projects, teaching materials, and scholarly work in digital writing and media studies.
+I'm driven by understanding how people interact with digital tools and making complex information accessible for diverse audiences. 
 
-My work focuses on how digital environments shape communication practices, from social media narratives to multimodal composition. I’m especially interested in questions like:
+As a PhD student in the Texts and Technology program at the University of Central Florida, digital humanities and critical technology studies shape how I approach user research 
 
-* How do digital platforms transform what it means to “write”?
-* What new literacies emerge in online, interactive, or algorithmic spaces?
-* How can we teach writing that prepares students for a post-print world?
+My background in editing and writing strengthens my ability to translate complex research into clear, accessible, and actionable insights, and my background in Women's and Gender Studies means I'm always considering whose voices are left out of the conversation and how to center marginalized perspectives in my work. 
+
+Whether I'm examining LGBTQ+ users' pain points on dating apps or exploring how citizens of a small town perceive the monuments in their community, I bring rigorous research methodology to every project—designing studies, conducting in-depth interviews, and synthesizing complex data into clear narratives that lead to meaningful change. 
 
 ---
 
