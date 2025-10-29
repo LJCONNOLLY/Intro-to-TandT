@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## LJ Connolly | UX Researcher
+## LJ Connolly | Researcher
 
 <img src="{{ '/assets/prof_pic.jpg' | relative_url }}" alt="LJ Connolly" class="profile-pic" style="display: block; margin: 2rem auto; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
