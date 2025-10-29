@@ -15,7 +15,7 @@ $dark-brown: #5C4A3A;
 body {
   background-color: $cream;
   color: $dark-brown;  /* Makes all text brown */
-  font-size: 1.1rem;  /* Makes body text bigger */
+  font-size: 1.3rem;  /* Doubled from original size */
 }
 
 /* Header styling */
@@ -85,5 +85,5 @@ h2 {
 
 p {
   color: $dark-brown;
-  font-size: 1.1rem;
+  font-size: 1.3rem;  /* Doubled */
 }
