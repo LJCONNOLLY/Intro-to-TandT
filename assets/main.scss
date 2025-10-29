@@ -1,154 +1,68 @@
 ---
 ---
 
+/* Earthy color palette */
+$sage-green: #9CAF88;
+$terracotta: #D4907A;
+$warm-beige: #E8DCC4;
+$soft-brown: #8B7355;
+$cream: #F5F1E8;
+$dark-brown: #5C4A3A;
 
-
-
+/* Overall site styling */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #f8f9fa;
-  color: #343a40;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
+  background-color: $cream;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #032c05;
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-p {
-  margin-bottom: 1rem;
-}
-// Better site styling
-.page-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
+/* Header styling */
 .site-header {
-  border-top: none;
-  border-bottom: 1px solid #e8e8e8;
-  padding: 1rem 0;
+  background-color: $warm-beige !important;
+  border-bottom: 2px solid $soft-brown;
 }
 
 .site-title {
-  font-size: 2rem;
-  font-weight: bold;
+  color: $dark-brown !important;
+  font-weight: 700 !important;
 }
 
-// Make the main site title (blue heading) MUCH bigger
-.site-header .site-title {
-  font-size: 3.5rem !important;
-  font-weight: bold !important;
-  margin-bottom: 1rem !important;
+.site-title:hover {
+  color: $soft-brown !important;
 }
 
-.site-nav {
-  float: right;
-  line-height: 3rem;
-}
-// Center the navigation bar - UPDATED
-.site-header {
-  text-align: center !important;
-  border-bottom: 1px solid #e8e8e8;
-  padding: 1rem 0;
-}
-
-.site-title {
-  display: block !important;
-  float: none !important;
-  text-align: center !important;
-  margin: 0 auto 0.5rem !important;
-}
-
-.site-nav {
-  float: none !important;
-  text-align: center !important;
-  line-height: normal !important;
-  display: block !important;
-}
-
-.site-nav .nav-trigger {
-  display: none;
-}
-
-.site-nav .page-link {
-  font-size: 1.5rem !important;
-  margin: 0 1.5rem;
-  font-weight: 500;
-}
-// Make text bigger and easier to read
-// Make text MUCH bigger and easier to read
-body {
-  font-size: 20px;
-  line-height: 1.9;
-}
-
-h1 {
-  font-size: 3rem;
-  margin-bottom: 1.5rem;
-  font-weight: bold;
-}
-
-h2 {
-  font-size: 2.5rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
-  font-weight: bold;
-}
-
-h3 {
-  font-size: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-p {
-  margin-bottom: 1.5rem;
-  font-size: 1.25rem;
-}
-
-li {
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-}
-
-// Make navigation links bigger too
-.site-nav .page-link {
-  font-size: 1.3rem;
-  margin: 0 1.5rem;
-}
-
-.site-title {
-  font-size: 2rem;
-  font-weight: bold;
-}
-
+/* Custom navigation styling with earthy colors */
 .nav-item {
   display: inline-block;
-  margin: 0 20px;  /* More spacing between buttons */
-  padding: 18px 36px;  /* Much bigger buttons */
-  background-color: #f0f0f0;
-  border-radius: 8px;  /* Slightly larger rounded corners */
+  margin: 0 20px;
+  padding: 18px 36px;
+  background-color: $sage-green;
+  color: #ffffff;
+  border-radius: 8px;
   text-decoration: none;
-  font-size: 1.5rem;  /* Much larger text */
-  font-weight: 600;  /* Bolder text */
+  font-size: 1.5rem;
+  font-weight: 600;
   transition: background-color 0.3s;
 }
 
 .nav-item:hover {
-  background-color: #e0e0e0;  /* Slightly darker on hover */
+  background-color: $soft-brown;
+  color: #ffffff;
+}
+
+/* Content styling */
+.page-content {
+  background-color: $cream;
+}
+
+/* Links */
+a {
+  color: $soft-brown;
+}
+
+a:hover {
+  color: $terracotta;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-brown;
 }
