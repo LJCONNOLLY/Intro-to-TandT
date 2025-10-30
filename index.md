@@ -15,23 +15,7 @@ My background in editing and writing strengthens my ability to translate complex
 
 Whether I'm examining LGBTQ+ users' pain points on dating apps or exploring how citizens of a small town perceive the monuments in their community, I bring rigorous research methodology to every project—designing studies, conducting in-depth interviews, and synthesizing complex data into clear narratives that lead to meaningful change. 
 
----
 
-### About This Site
-
-This portfolio serves as both a **professional showcase** and an **experimental space** for exploring the affordances of web-based composition. You’ll find:
-
-* **[Projects](projects/)** – Research and creative work highlighting digital rhetoric, interface design, and online authorship.
-* **[Teaching](teaching/)** – Sample syllabi, assignments, and reflections on pedagogy in digital contexts.
-* **Blog or Updates** *(optional)* – Informal reflections, class updates, and posts about digital culture.
-
-All content is built using **Markdown**, **GitHub Pages**, and **Jekyll**, demonstrating how web literacies intersect with scholarly communication.
-
----
-
-### Current Work
-
-I’m currently developing a project that examines how working-class writers use digital platforms to share knowledge, build community, and challenge traditional literacy hierarchies. This research bridges **digital humanities**, **rhetoric and composition**, and **cultural studies**.
 
 ---
 
