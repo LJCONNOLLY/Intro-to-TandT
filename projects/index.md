@@ -6,6 +6,16 @@ permalink: /projects/
 
 ## Projects
 
+## [Breaking Binaries: Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
+
+A qualitative UX research study examining how gender nonconforming lesbians navigate use dating apps in unintended ways to creatively express their identities.
+
+**Methods:** Focus groups, thematic analysis, intersectional framework  
+**Outcome:** Evidence-based recommendations for inclusive dating app design
+
+[Read the full case study →](/projects/breaking-binaries/)
+
+
 ### Digital Literacy in the Workplace  
 **Research Project — Spring 2025**  
 *Exploring how working-class adults navigate digital tools in professional and everyday contexts.*
