@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## LJ Connolly | Researcher
-
 <img src="{{ '/assets/prof_pic.jpg' | relative_url }}" alt="LJ Connolly" class="profile-pic" style="display: block; margin: 2rem auto; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
-# Hey! I'm LJ. Welcome to my little corner of the internet.
+# Hey! I'm LJ. 
+
+# Welcome to my little corner of the internet.
 
 I'm a UX researcher because I believe in centering the voices that too often get overlooked—and I'm passionate about making human-centered research more accessible and engaging for everyone involved.
 
