@@ -247,25 +247,20 @@ permalink: /projects/breaking-binaries/
 <!-- Project Details -->
 <div class="project-details">
   <div class="detail-item">
-    <h3>Role</h3>
-    <p>Lead UX Researcher</p>
   </div>
   <div class="detail-item">
     <h3>Timeline</h3>
     <p>2024-2025</p>
   </div>
   <div class="detail-item">
-    <h3>Methods</h3>
-    <p>Focus Groups, Thematic Analysis</p>
+    <h3>Primary Methods</h3>
+    <p>Semi-structured Focus Groups, Qualitative User Research, Thematic Coding</p>
   </div>
   <div class="detail-item">
     <h3>Participants</h3>
-    <p>12 participants, 4 groups</p>
+    <p>9 participants, 4 groups</p>
   </div>
 </div>
-## Study Participants
-
-Nine gender nonconforming lesbians participated in this study across four focus groups. Participants represented diverse gender identities including nonbinary, genderfluid, gender expansive, and gender questioning individuals. The majority identified as lesbian, with some participants also identifying as polyamorous or queer.
 
 **Sample Demographics:**
 
@@ -276,19 +271,18 @@ This sample, while small, provided rich qualitative data about the intersecting 
 <!-- Context -->
 <h2 class="section-header">The Problem</h2>
 
-<p>Popular dating apps like Tinder, Bumble, and Hinge have historically been designed for straight, cisgender users. Even with LGBTQ+ features added over time, these platforms often fail to serve gender nonconforming lesbians—people whose gender expression and sexual identity don't fit binary categories.</p>
-
 <div class="callout-box">
-  <h4>Research Gap Identified</h4>
-  <p>While studies existed on lesbians and on gender minorities separately, almost no research examined the intersection of these identities.</p>
+<p>Popular dating apps like Tinder, Bumble, and Hinge have historically been designed for straight, cisgender users. Even with LGBTQ+ features added over time, these platforms often fail to serve gender nonconforming lesbians—people whose gender expression and sexual identity don't fit binary categories.
+
+This research investigates how gender nonconforming lesbians creatively navigate dating apps that treat their identities as an afterthought, and proposes design patterns that leverage creative expression to serve all users more equitably/p>
+
 </div>
 
 <!-- Research Questions -->
 <h2 class="section-header">Research Questions</h2>
 
 <ul style="font-size: 1.4rem; line-height: 2; color: #5C4A3A;">
-  <li>How do gender nonconforming lesbians present their gender and sexuality on dating apps?</li>
-  <li>What constraints do they experience when trying to express their authentic identities?</li>
+  <li>What constraints do gender nonconforming lesbians experience when trying to express their identities?</li>
   <li>How do they creatively work within and around platform limitations?</li>
   <li>How do intersecting identities (race, class) shape their experiences?</li>
   <li>What design changes would better serve this community?</li>
@@ -339,7 +333,7 @@ This sample, while small, provided rich qualitative data about the intersecting 
     <h3>DIY-ing Identity Expression</h3>
     <p>Dating apps force users to select singular, fixed categories for gender and sexuality that don't capture complexity.</p>
     <div class="quote-highlight">
-      "The only way I could show how my gender presentation fluctuates is by uploading multiple photos and explicitly writing about it in my bio." — Angel
+      "The only way I could show how my gender presentation fluctuates is by uploading multiple photos and explicitly writing about it in my bio." — Angel(pseudonym)
     </div>
     <p><strong>What users did:</strong> Uploaded multiple photos, wrote extensive bios, repurposed interest tags as identity signals.</p>
   </div>
@@ -349,7 +343,7 @@ This sample, while small, provided rich qualitative data about the intersecting 
     <h3>Algorithmic Invisibility</h3>
     <p>Algorithms designed for binary categories struggle to match nonbinary lesbian users.</p>
     <div class="quote-highlight">
-      "I had to say I'm a 'woman interested in women' even though I'm nonbinary, because otherwise I wouldn't show up for other lesbians." — Ruka
+      "I had to say I'm a 'woman interested in women' even though I'm nonbinary, because otherwise I wouldn't show up for other lesbians." — Ruka (pseudonym)
     </div>
     <p><strong>Impact:</strong> Users forced to misrepresent themselves to be visible.</p>
   </div>
@@ -359,7 +353,7 @@ This sample, while small, provided rich qualitative data about the intersecting 
     <h3>Rejecting Commodification</h3>
     <p>100% of participants said they would never pay for app features.</p>
     <div class="quote-highlight">
-      "Paying for a dating app is a new level of desperation. Being super-liked by someone who paid is a major turnoff." — Gina
+      "Paying for a dating app is a new level of desperation. Being super-liked by someone who paid is a major turnoff." — Gina (pseudonym)
     </div>
     <p><strong>Insight:</strong> Monetization strategies don't resonate with all user groups.</p>
   </div>
@@ -369,19 +363,9 @@ This sample, while small, provided rich qualitative data about the intersecting 
     <h3>Racial Algorithmic Dynamics</h3>
     <p>Dating app algorithms can reinforce racial segregation patterns.</p>
     <div class="quote-highlight">
-      "The algorithm learned what I was attracted to and started showing me predominantly white people." — Wula
+      "After matching with a few white people, that seemed the be the only race that appeared in my feed" — Wula (pseudonym)
     </div>
     <p><strong>But also:</strong> "Dating apps helped me connect with people of color in my segregated city." — Matisse</p>
-  </div>
-
-  <div class="finding-card">
-    <span class="finding-number">5</span>
-    <h3>Finding Joy Despite Constraints</h3>
-    <p>Despite significant limitations, participants still found community and relationships.</p>
-    <div class="quote-highlight">
-      "It seems like a miracle that I found my partner on these apps given how poorly designed they are for us." — Tee
-    </div>
-    <p><strong>Critical insight:</strong> User resilience doesn't excuse poor design.</p>
   </div>
 </div>
 
