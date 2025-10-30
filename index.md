@@ -21,6 +21,22 @@ Outside of research, you'll find me in my cottage in downtown Lakeland, Florida 
  
 ---
 
+
+## Featured Research
+
+<div class="portfolio-grid">
+  <div class="portfolio-card">
+    <a href="{{ site.baseurl }}/projects/breaking-binaries/">
+      <img src="{{ '/assets/breaking-binaries-hero.jpg' | relative_url }}" alt="Breaking Binaries Research">
+      <h3>Breaking Binaries</h3>
+      <p>Understanding how gender nonconforming lesbians navigate dating apps</p>
+    </a>
+  </div>
+</div>
+
+---
+
+
 # Let's Get in Touch
 
 I'd love to meet over coffee—virtually or otherwise! I'm always up for conversation.

@@ -95,3 +95,49 @@ p {
   font-size: 1.5rem;
   line-height: 1.8;
 }
+/* Portfolio Grid */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.portfolio-card {
+  background-color: $warm-beige;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.portfolio-card a {
+  text-decoration: none;
+  color: $dark-brown;
+  display: block;
+}
+
+.portfolio-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.portfolio-card h3 {
+  padding: 1.5rem 1.5rem 0.5rem;
+  margin: 0;
+  font-size: 1.8rem;
+  color: $dark-brown;
+}
+
+.portfolio-card p {
+  padding: 0 1.5rem 1.5rem;
+  margin: 0;
+  font-size: 1.2rem;
+  color: $soft-brown;
+}
