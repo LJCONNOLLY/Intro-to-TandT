@@ -21,9 +21,9 @@ Outside of research, you'll find me in my cottage in downtown Lakeland, Florida 
  
 ---
 
-### Get in Touch
+# Let's Get in Touch
 
-Let's meet over coffee—virtually or otherwise! I'm always up for collaboration, research conversations, or just connecting. I'd love to chat with you!
+I'd love to meet over coffee—virtually or otherwise! I'm always up for conversation.
 
 📧 [LJConnolly@ucf.edu](mailto:LJConnolly@ucf.edu)
 🔗 [LinkedIn](https://www.linkedin.com/in/lj-connolly-81524224b/) • [GitHub](https://github.com/ljconnolly)
