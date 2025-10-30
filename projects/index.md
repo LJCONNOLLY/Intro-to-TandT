@@ -13,7 +13,7 @@ A qualitative UX research study examining how gender nonconforming lesbians navi
 **Methods:** Focus groups, thematic analysis, intersectional framework  
 **Outcome:** Evidence-based recommendations for inclusive dating app design
 
-[Read the full case study](/projects/breaking-binaries/)
+[Read the full case study]({{ site.baseurl }}/projects/breaking-binaries/) 
 
 
 ### Digital Literacy in the Workplace  

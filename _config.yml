@@ -6,5 +6,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-baseurl: "/Intro-to-TandT"
+baseurl: "/intro-to-TandT"
 url: "https://ljconnolly.github.io"
