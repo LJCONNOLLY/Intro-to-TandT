@@ -14,13 +14,13 @@ $dark-brown: #5C4A3A;
 /* Overall site styling */
 body {
   background-color: $cream;
-  color: $dark-brown;  /* Makes all text brown */
-  font-size: 1.3rem;  /* Doubled from original size */
+  color: $dark-brown;
+  font-size: 1.3rem;
 }
 
 /* Header styling */
-.site-header {X
-  background-color: $warm-beige !important;
+.site-header {
+  background-color: #E8DCC4 !important;
   border-bottom: 2px solid $soft-brown;
 }
 
@@ -35,25 +35,25 @@ body {
 
 /* Custom navigation styling with earthy colors */
 .nav-items {
-  white-space: nowrap;  /* Keeps buttons on one line */
+  white-space: nowrap;
 }
 
 .nav-item {
   display: inline-block;
-  margin: 0 10px;  /* Reduced spacing so they fit on one line */
-  padding: 15px 28px;  /* Slightly smaller to fit better */
+  margin: 0 10px;
+  padding: 15px 28px;
   background-color: $sage-green;
-  color: #ffffff;
+  color: #ffffff !important;
   border-radius: 8px;
   text-decoration: none;
-  font-size: 1.3rem;  /* Still large but fits better */
+  font-size: 1.3rem;
   font-weight: 600;
   transition: background-color 0.3s;
 }
 
 .nav-item:hover {
   background-color: $soft-brown;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 /* Content styling */
@@ -63,7 +63,7 @@ body {
 
 /* Links */
 a {
-  color: #6B8E5F;  /* Darker sage green for links */
+  color: #3d5a3d;
 }
 
 a:hover {
@@ -85,5 +85,5 @@ h2 {
 
 p {
   color: $dark-brown;
-  font-size: 1.3rem;  /* Doubled */
+  font-size: 1.3rem;
 }
