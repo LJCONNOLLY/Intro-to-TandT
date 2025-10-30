@@ -22,11 +22,11 @@ Outside of research, you'll find me in my cottage in downtown Lakeland, Florida 
 ---
 
 
-## Featured Research
+## Featured UX Research
 
 <div class="portfolio-card">
   <a href="{{ site.baseurl }}/projects/breaking-binaries/">
-    <img src="{{ '/assets/breaking-binaries-beige.png' | relative_url }}" alt="Breaking Binaries Research">
+    <img src="{{ '/assets/breaking-binaries-styled.svg' | relative_url }}" alt="Breaking Binaries Research">
     <h3>Breaking Binaries</h3>
     <p>Understanding how gender nonconforming lesbians navigate dating apps</p>
   </a>
