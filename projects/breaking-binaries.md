@@ -236,23 +236,7 @@ permalink: /projects/breaking-binaries/
   color: #8B7355;
 }
 </style>
-/* Use these in breaking-binaries-paige-style.md */
 
-/* Headers */
-.section-header { color: var(--color-terracotta); }
-h1, h2 { color: var(--color-forest); }
-h3 { color: var(--color-sage); }
-
-/* Text */
-p { color: var(--color-text-dark); }
-
-/* Backgrounds */
-body { background-color: var(--color-bg-cream); }
-.callout-box { background-color: var(--color-sand); }
-
-/* Accents */
-a { color: var(--color-olive); }
-a:hover { color: var(--color-rust); }
 <!-- Hero Section -->
 <div class="case-study-hero">
   <h1>Breaking Binaries</h1>
