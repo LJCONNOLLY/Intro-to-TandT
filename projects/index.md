@@ -6,14 +6,11 @@ permalink: /projects/
 
 ## Projects
 
-## [Breaking Binaries: Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
+## [UX Research on Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
 
-A qualitative UX research study examining how gender nonconforming lesbians navigate use dating apps in unintended ways to creatively express their identities.
+This UX research study revealed how popular dating app designs fail to serve gender nonconforming lesbians, leading them to "DIY" their identities through creative, unintended avenues. I developed evidence-based design recommendations including more user-controlled visibility settings. 
 
-**Methods:** Focus groups, thematic analysis, intersectional framework  
-**Outcome:** Evidence-based recommendations for inclusive dating app design
-
-[Read the full case study]({{ site.baseurl }}/projects/breaking-binaries/) 
+[Read the full UX portfolio page]({{ site.baseurl }}/projects/breaking-binaries/) 
 
 
 ### Digital Literacy in the Workplace  
