@@ -4,238 +4,461 @@ title: Breaking Binaries
 permalink: /projects/breaking-binaries/
 ---
 
-# BREAKING BINARIES
-
-## User Research:
-## Gender Nonconforming Lesbians on Dating Apps
-**(2024-2025)**
-
----
-
-## Project Overview
-
-Popular dating apps like Tinder, Bumble, and Hinge have historically been designed for straight, cisgender users. Even with LGBTQ+ features added over time, these platforms often fail to serve gender nonconforming lesbians—people whose gender expression and sexual identity don't fit binary categories.
-
-This research investigated how gender nonconforming lesbians experience algorithmic constraints, express their identities, and creatively navigate dating app limitations.
-
-**This project overview explains high-level details of this study. Specific participant details are omitted to protect privacy.**
-
----
-
-## Tools
-
-**Recruitment + Research Operations**
-- University IRB approval
-- Snowball sampling through LGBTQ+ networks
-- Email and social media recruitment
-
-**Data Collection**
-- Zoom (video conferencing)
-- Audio recording and transcription
-
-**Analysis**
-- Thematic coding
-- Intersectional analysis framework
-- Microsoft Word + manual coding
-
-**Deliverables**
-- Master's thesis document
-- Conference presentation
-- Portfolio case study
-
----
-
-## High-Level Research Process
-
-### Research Planning
-
-- **Literature Review:** I began by reviewing existing research on LGBTQ+ experiences on dating apps, identifying a critical gap: while studies existed on lesbians and on gender minorities separately, almost no research examined the intersection of these identities.
-
-- **Theoretical Framework:** I selected Michel Foucault's concept of biopower as my analytical lens, which examines how systems (like dating apps) regulate identity, desire, and behavior through seemingly neutral technological design.
-
-- **Methodology Selection:** I chose focus groups rather than individual interviews because they allow participants to build on each other's experiences and reveal collective strategies for navigating hostile systems. This collaborative approach aligns with decolonizing research methodologies that prioritize relational knowledge creation.
-
-- **Participant Requirements:** Gender nonconforming individuals who identify as lesbians, ages 18+, with experience using at least one mainstream dating app in the past year.
-
-- **Recruitment Strategy:** I recruited through LGBTQ+ community organizations, social media, and snowball sampling to reach 12 participants across 4 focus groups.
-
-### Our Research Questions
-
-- How do gender nonconforming lesbians present their gender and sexuality on dating apps?
-
-- What constraints do they experience when trying to express their authentic identities?
-
-- How do they creatively work within and around platform limitations?
-
-- How do intersecting identities (race, class) shape their experiences?
-
-- What design changes would better serve this community?
-
-### Data Collection + Synthesis
-
-- **Study Methodology:** Qualitative focus groups, 60-90 minutes each, conducted via Zoom with 3-4 participants per group.
-
-- **Discussion Format:** Semi-structured conversations covering four identity axes: gender, sexuality, race, and socioeconomic status. Participants shared personal experiences and built on each other's insights.
-
-- **Data Collection Timeline:** 4 weeks to complete all focus groups, with flexible scheduling to accommodate participants.
-
-- **Synthesis Process:** 
-  - Audio recordings transcribed verbatim
-  - Multiple rounds of thematic coding to identify patterns
-  - Intersectional analysis examining how identities overlap and interact
-  - Participant quotes selected to illustrate key themes
-
-- **Ethics:** All participants provided informed consent, chose their own pseudonyms, and were informed they could skip questions or withdraw at any time.
-
-### Deliverable Development + Presentation
-
-- The final deliverable was determined at the beginning of the research process: a Master's thesis examining how biopower operates through dating apps, with actionable design recommendations.
-
-- I also created a portfolio case study translating academic findings into UX industry language.
-
----
-
-## Key Findings
-
-### Finding 1: DIY-ing Identity Expression
-
-**The Problem:** Dating apps force users to select singular, fixed categories for gender and sexuality that don't capture complexity.
-
-**What Participants Did:**
-- Uploaded multiple photos showing different gender presentations
-- Wrote extensive bio text explaining what dropdown menus couldn't
-- Repurposed "interest tags" as identity signals
-- Selected incomplete gender options just to appear in the right feeds
-
-> *"The only way I could show how my gender presentation fluctuates across the femme-masc spectrum is by uploading multiple photos showing different styles and explicitly writing about it in my bio."* — Angel
-
-**Design Implication:** Users are highly motivated to be authentic, but they shouldn't have to hack platforms to be seen accurately.
-
----
-
-### Finding 2: Algorithmic Invisibility
-
-**The Problem:** Algorithms designed for binary categories struggle to match nonbinary lesbian users.
-
-**User Experience:**
-- Forced to choose between incomplete options that misrepresented them
-- Many selected "woman" despite identifying as nonbinary to appear in lesbian-seeking feeds
-- Couldn't find other nonbinary lesbians because algorithms don't recognize this identity configuration
-
-> *"I had to say I'm a 'woman interested in women' even though I'm nonbinary, because otherwise I wouldn't show up for other lesbians."* — Ruka
-
-**Design Implication:** Binary matching logic creates barriers to connection and requires users to misrepresent themselves.
-
----
-
-### Finding 3: Rejecting Commodification
-
-**The Problem:** Dating apps use FOMO tactics and artificial scarcity to drive premium subscriptions.
-
-**User Response:** 
-- **100% of participants** said they would never pay for app features
-- Being "super-liked" by someone who paid felt inauthentic and desperate
-- Strong preference for partners with similar class backgrounds
-- Valued authenticity and class solidarity over platform incentives
-
-> *"Paying for a dating app is a new level of desperation. Being super-liked by someone who probably paid for that upgrade is a major turnoff for me."* — Gina
-
-**Design Implication:** Monetization strategies assuming universal motivation to pay don't resonate with all user groups.
-
----
-
-### Finding 4: Racial Algorithmic Dynamics
-
-**The Problem:** Dating app algorithms can reinforce racial segregation patterns even without explicit user preferences.
-
-**Complex User Experiences:**
-
-**Algorithmic Echo Chambers:**
-> *"Even though I wasn't swiping with a racial bias, the algorithm learned what I was attracted to and started showing me predominantly white people."* — Wula
-
-**But Also Resistance:**
-> *"Dating apps have been important for me to connect with people of color because my city is very white and racially segregated. I straight up would not have met these people otherwise."* — Matisse
-
-**Design Implication:** Algorithms can both reinforce and counteract geographic segregation depending on how they're designed.
-
----
-
-### Finding 5: Finding Joy Despite Constraints
-
-**The Paradox:** Despite significant platform limitations, participants still found community, long-term relationships, and queer joy.
-
-> *"It seems like a miracle that I found my partner on these apps given how poorly designed they are for us. But somehow, we found each other anyway."* — Tee
-
-**Critical Insight:** User resilience doesn't excuse poor design—it just reveals that users are doing extra work to make platforms functional for their needs.
-
----
-
-## Design Recommendations
-
-Based on these findings, I recommend:
-
-### 1. Implement Flexible Identity Systems
-- Allow multiple selections for both gender and sexuality
-- Add free-text fields alongside structured options
-- Enable identity evolution without losing connection history
-
-### 2. Redesign Matching Algorithms
-- Match based on values and compatibility, not just demographics
-- Give users visibility control across gender categories
-- Test algorithms with diverse user groups before launch
-
-### 3. Increase Transparency & User Control
-- Explain how matching algorithms work
-- Give users control over feed diversity
-- Audit for racial bias regularly
-
-### 4. Reconsider Monetization Models
-- Design for meaningful connection over engagement maximization
-- Be transparent about what paid features actually provide
-- Avoid artificial scarcity tactics
-
-### 5. Center Marginalized Users in Design
-- Include nonbinary lesbians in user research from the beginning
-- Build diverse product teams
-- Create ongoing advisory boards from LGBTQ+ communities
-
----
-
-## Impact
-
-This research reveals that **creative user workarounds mask fundamental design problems.** Just because users adapt doesn't mean the design serves them well.
-
-**Key Contributions:**
-- Fills gap in academic literature on intersecting gender and sexual minority identities
-- Provides evidence-based recommendations for inclusive dating app design
-- Centers marginalized voices typically excluded from product development
-- Demonstrates how qualitative research can drive design decisions
-
-**Future Applications:**
-- Can inform product roadmaps for dating app features
-- Provides framework for studying other marginalized user groups
-- Offers template for decolonizing UX research practices
-
----
-
-## Skills Demonstrated
-
-**Research Design:** Study planning, methodology selection, theoretical framework application
-
-**Facilitation:** Focus group moderation, creating safe discussion spaces, managing group dynamics
-
-**Recruitment:** Sampling strategy, screening criteria, community outreach
-
-**Analysis:** Thematic coding, intersectional analysis, pattern identification across data sets
-
-**Communication:** Translating complex findings into actionable insights, presenting to diverse audiences
-
-**Ethics:** IRB compliance, informed consent, protecting participant privacy, reflexive practice
-
----
-
-## About This Research
-
-This project was originally conducted as my Master's thesis in Women's and Gender Studies at the University of South Florida. It combines critical theory with applied UX research methods to center marginalized voices and drive inclusive design.
-
-**Want to discuss this research or see the full findings?** [Let's connect!](mailto:ljconnolly@ucf.edu)
+<style>
+/* Case Study Specific Styles */
+.case-study-hero {
+  background: linear-gradient(135deg, #F5F1E8 0%, #E8DCC4 100%);
+  padding: 4rem 2rem;
+  margin: -2rem -2rem 3rem -2rem;
+  text-align: center;
+}
+
+.case-study-hero h1 {
+  font-size: 3.2rem;
+  margin-bottom: 1rem;
+  color: #5C4A3A;
+}
+
+.case-study-hero .subtitle {
+  font-size: 1.8rem;
+  color: #8B7355;
+  margin-bottom: 2rem;
+}
+
+.case-study-hero .brief {
+  font-size: 1.4rem;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+  color: #5C4A3A;
+}
+
+.project-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  background-color: #FFFDF9;
+  padding: 2.5rem;
+  border-radius: 12px;
+  margin: 3rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.detail-item h3 {
+  font-size: 1.3rem;
+  color: #9CAF88;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.detail-item p {
+  font-size: 1.4rem;
+  color: #5C4A3A;
+  margin: 0;
+}
+
+.section-header {
+  font-size: 2.5rem;
+  color: #5C4A3A;
+  margin: 4rem 0 2rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #9CAF88;
+}
+
+.callout-box {
+  background-color: #F5F1E8;
+  border-left: 5px solid #9CAF88;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+}
+
+.callout-box h4 {
+  color: #5C4A3A;
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.findings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.finding-card {
+  background-color: #FFFDF9;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.finding-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.finding-number {
+  display: inline-block;
+  background-color: #9CAF88;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 40px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+}
+
+.finding-card h3 {
+  color: #5C4A3A;
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.quote-highlight {
+  font-style: italic;
+  color: #8B7355;
+  font-size: 1.3rem;
+  padding: 1.5rem;
+  background-color: #F5F1E8;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+.recommendations-list {
+  counter-reset: recommendation;
+  list-style: none;
+  padding: 0;
+}
+
+.recommendations-list li {
+  counter-increment: recommendation;
+  background-color: #FFFDF9;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: relative;
+  padding-left: 5rem;
+}
+
+.recommendations-list li::before {
+  content: counter(recommendation);
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  background-color: #9CAF88;
+  color: white;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.recommendations-list h4 {
+  margin-top: 0;
+  color: #5C4A3A;
+  font-size: 1.6rem;
+}
+
+.impact-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.metric-card {
+  background: linear-gradient(135deg, #9CAF88 0%, #8B7355 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.metric-card .number {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.metric-card .label {
+  font-size: 1.3rem;
+}
+
+.process-steps {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.process-step {
+  flex: 1;
+  min-width: 200px;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.process-step-number {
+  background-color: #9CAF88;
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.process-step h4 {
+  color: #5C4A3A;
+  font-size: 1.4rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.process-step p {
+  font-size: 1.2rem;
+  color: #8B7355;
+}
+</style>
+
+<!-- Hero Section -->
+<div class="case-study-hero">
+  <h1>Breaking Binaries</h1>
+  <p class="subtitle">Gender Nonconforming Lesbians on Dating Apps</p>
+  <p class="brief">A qualitative UX research study examining how gender nonconforming lesbians navigate dating app constraints and creatively express their identities through platform limitations.</p>
+</div>
+
+<!-- Project Details -->
+<div class="project-details">
+  <div class="detail-item">
+    <h3>Role</h3>
+    <p>Lead UX Researcher</p>
+  </div>
+  <div class="detail-item">
+    <h3>Timeline</h3>
+    <p>2024-2025</p>
+  </div>
+  <div class="detail-item">
+    <h3>Methods</h3>
+    <p>Focus Groups, Thematic Analysis</p>
+  </div>
+  <div class="detail-item">
+    <h3>Participants</h3>
+    <p>12 participants, 4 groups</p>
+  </div>
+</div>
+
+<!-- Context -->
+<h2 class="section-header">The Problem</h2>
+
+<p>Popular dating apps like Tinder, Bumble, and Hinge have historically been designed for straight, cisgender users. Even with LGBTQ+ features added over time, these platforms often fail to serve gender nonconforming lesbians—people whose gender expression and sexual identity don't fit binary categories.</p>
+
+<div class="callout-box">
+  <h4>Research Gap Identified</h4>
+  <p>While studies existed on lesbians and on gender minorities separately, almost no research examined the intersection of these identities.</p>
+</div>
+
+<!-- Research Questions -->
+<h2 class="section-header">Research Questions</h2>
+
+<ul style="font-size: 1.4rem; line-height: 2; color: #5C4A3A;">
+  <li>How do gender nonconforming lesbians present their gender and sexuality on dating apps?</li>
+  <li>What constraints do they experience when trying to express their authentic identities?</li>
+  <li>How do they creatively work within and around platform limitations?</li>
+  <li>How do intersecting identities (race, class) shape their experiences?</li>
+  <li>What design changes would better serve this community?</li>
+</ul>
+
+<!-- Research Process -->
+<h2 class="section-header">Research Process</h2>
+
+<div class="process-steps">
+  <div class="process-step">
+    <div class="process-step-number">1</div>
+    <h4>Planning</h4>
+    <p>Literature review, theoretical framework, IRB approval</p>
+  </div>
+  <div class="process-step">
+    <div class="process-step-number">2</div>
+    <h4>Recruitment</h4>
+    <p>Snowball sampling through LGBTQ+ networks</p>
+  </div>
+  <div class="process-step">
+    <div class="process-step-number">3</div>
+    <h4>Data Collection</h4>
+    <p>4 focus groups, 60-90 min each via Zoom</p>
+  </div>
+  <div class="process-step">
+    <div class="process-step-number">4</div>
+    <h4>Analysis</h4>
+    <p>Thematic coding, intersectional analysis</p>
+  </div>
+  <div class="process-step">
+    <div class="process-step-number">5</div>
+    <h4>Synthesis</h4>
+    <p>Design recommendations and deliverables</p>
+  </div>
+</div>
+
+<div class="callout-box">
+  <h4>Why Focus Groups?</h4>
+  <p>I chose focus groups rather than individual interviews because they allow participants to build on each other's experiences and reveal collective strategies for navigating hostile systems. This collaborative approach aligns with decolonizing research methodologies that prioritize relational knowledge creation.</p>
+</div>
+
+<!-- Key Findings -->
+<h2 class="section-header">Key Findings</h2>
+
+<div class="findings-grid">
+  <div class="finding-card">
+    <span class="finding-number">1</span>
+    <h3>DIY-ing Identity Expression</h3>
+    <p>Dating apps force users to select singular, fixed categories for gender and sexuality that don't capture complexity.</p>
+    <div class="quote-highlight">
+      "The only way I could show how my gender presentation fluctuates is by uploading multiple photos and explicitly writing about it in my bio." — Angel
+    </div>
+    <p><strong>What users did:</strong> Uploaded multiple photos, wrote extensive bios, repurposed interest tags as identity signals.</p>
+  </div>
+
+  <div class="finding-card">
+    <span class="finding-number">2</span>
+    <h3>Algorithmic Invisibility</h3>
+    <p>Algorithms designed for binary categories struggle to match nonbinary lesbian users.</p>
+    <div class="quote-highlight">
+      "I had to say I'm a 'woman interested in women' even though I'm nonbinary, because otherwise I wouldn't show up for other lesbians." — Ruka
+    </div>
+    <p><strong>Impact:</strong> Users forced to misrepresent themselves to be visible.</p>
+  </div>
+
+  <div class="finding-card">
+    <span class="finding-number">3</span>
+    <h3>Rejecting Commodification</h3>
+    <p>100% of participants said they would never pay for app features.</p>
+    <div class="quote-highlight">
+      "Paying for a dating app is a new level of desperation. Being super-liked by someone who paid is a major turnoff." — Gina
+    </div>
+    <p><strong>Insight:</strong> Monetization strategies don't resonate with all user groups.</p>
+  </div>
+
+  <div class="finding-card">
+    <span class="finding-number">4</span>
+    <h3>Racial Algorithmic Dynamics</h3>
+    <p>Dating app algorithms can reinforce racial segregation patterns.</p>
+    <div class="quote-highlight">
+      "The algorithm learned what I was attracted to and started showing me predominantly white people." — Wula
+    </div>
+    <p><strong>But also:</strong> "Dating apps helped me connect with people of color in my segregated city." — Matisse</p>
+  </div>
+
+  <div class="finding-card">
+    <span class="finding-number">5</span>
+    <h3>Finding Joy Despite Constraints</h3>
+    <p>Despite significant limitations, participants still found community and relationships.</p>
+    <div class="quote-highlight">
+      "It seems like a miracle that I found my partner on these apps given how poorly designed they are for us." — Tee
+    </div>
+    <p><strong>Critical insight:</strong> User resilience doesn't excuse poor design.</p>
+  </div>
+</div>
+
+<!-- Recommendations -->
+<h2 class="section-header">Design Recommendations</h2>
+
+<ul class="recommendations-list">
+  <li>
+    <h4>Implement Flexible Identity Systems</h4>
+    <p>Allow multiple selections for both gender and sexuality. Add free-text fields alongside structured options. Enable identity evolution without losing connection history.</p>
+  </li>
+  <li>
+    <h4>Redesign Matching Algorithms</h4>
+    <p>Match based on values and compatibility, not just demographics. Give users visibility control across gender categories. Test algorithms with diverse user groups before launch.</p>
+  </li>
+  <li>
+    <h4>Increase Transparency & User Control</h4>
+    <p>Explain how matching algorithms work. Give users control over feed diversity. Audit for racial bias regularly.</p>
+  </li>
+  <li>
+    <h4>Reconsider Monetization Models</h4>
+    <p>Design for meaningful connection over engagement maximization. Be transparent about what paid features actually provide. Avoid artificial scarcity tactics.</p>
+  </li>
+  <li>
+    <h4>Center Marginalized Users in Design</h4>
+    <p>Include nonbinary lesbians in user research from the beginning. Build diverse product teams. Create ongoing advisory boards from LGBTQ+ communities.</p>
+  </li>
+</ul>
+
+<!-- Impact -->
+<h2 class="section-header">Impact & Contributions</h2>
+
+<div class="impact-metrics">
+  <div class="metric-card">
+    <div class="number">12</div>
+    <div class="label">Participants</div>
+  </div>
+  <div class="metric-card">
+    <div class="number">4</div>
+    <div class="label">Focus Groups</div>
+  </div>
+  <div class="metric-card">
+    <div class="number">5</div>
+    <div class="label">Key Findings</div>
+  </div>
+  <div class="metric-card">
+    <div class="number">5</div>
+    <div class="label">Design Recommendations</div>
+  </div>
+</div>
+
+<div class="callout-box">
+  <h4>Key Contributions</h4>
+  <ul style="font-size: 1.3rem; line-height: 1.8;">
+    <li>Fills gap in academic literature on intersecting gender and sexual minority identities</li>
+    <li>Provides evidence-based recommendations for inclusive dating app design</li>
+    <li>Centers marginalized voices typically excluded from product development</li>
+    <li>Demonstrates how qualitative research can drive design decisions</li>
+  </ul>
+</div>
+
+<!-- Skills Demonstrated -->
+<h2 class="section-header">Skills Demonstrated</h2>
+
+<div class="findings-grid">
+  <div class="finding-card">
+    <h3>Research Design</h3>
+    <p>Study planning, methodology selection, theoretical framework application</p>
+  </div>
+  <div class="finding-card">
+    <h3>Facilitation</h3>
+    <p>Focus group moderation, creating safe discussion spaces, managing group dynamics</p>
+  </div>
+  <div class="finding-card">
+    <h3>Analysis</h3>
+    <p>Thematic coding, intersectional analysis, pattern identification across data sets</p>
+  </div>
+  <div class="finding-card">
+    <h3>Communication</h3>
+    <p>Translating complex findings into actionable insights, presenting to diverse audiences</p>
+  </div>
+</div>
+
+<!-- Footer CTA -->
+<div style="text-align: center; margin: 4rem 0; padding: 3rem; background-color: #F5F1E8; border-radius: 12px;">
+  <h3 style="font-size: 2rem; color: #5C4A3A; margin-bottom: 1rem;">Want to discuss this research?</h3>
+  <p style="font-size: 1.4rem; color: #8B7355; margin-bottom: 2rem;">I'd love to talk about inclusive UX research methods and design recommendations.</p>
+  <a href="mailto:LJConnolly@ucf.edu" style="display: inline-block; background-color: #9CAF88; color: white; padding: 1rem 2.5rem; border-radius: 8px; text-decoration: none; font-size: 1.4rem; font-weight: 600;">Get in Touch</a>
+</div>
