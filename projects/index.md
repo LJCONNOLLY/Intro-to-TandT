@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Selected UX Research Projects
 
-## [UX Research on Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
+## [Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
 
 This UX research study revealed how popular dating app designs fail to serve gender nonconforming lesbians, leading them to "DIY" their identities through creative, unintended avenues. I developed evidence-based design recommendations including more user-controlled visibility settings. 
 
