@@ -15,7 +15,7 @@ $dark-brown: #5C4A3A;
 body {
   background-color: $cream;
   color: $dark-brown;
-  font-size: 1.3rem;
+  font-size: 1.5rem;  /* Increased from 1.3rem */
 }
 
 /* Header styling */
@@ -56,14 +56,20 @@ body {
   color: #ffffff !important;
 }
 
-/* Content styling */
+/* Content styling - MAKE TEXT WIDER */
 .page-content {
   background-color: $cream;
 }
 
+.wrapper {
+  max-width: 1000px !important;  /* Increased from default ~800px */
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
 /* Links */
 a {
-  color: #3d5a3d;
+  color: #6B8E5F;
 }
 
 a:hover {
@@ -76,14 +82,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;  /* Increased */
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.3rem;  /* Increased */
 }
 
 p {
   color: $dark-brown;
-  font-size: 1.3rem;
+  font-size: 1.5rem;  /* Increased from 1.3rem */
+  line-height: 1.8;  /* Better spacing between lines */
 }
