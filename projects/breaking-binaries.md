@@ -273,7 +273,7 @@ Nine gender nonconforming lesbians participated in this study across four focus 
 - **Relationship Style:** 4 did not specify, 3 polyamorous, 2 monogamous
 - **Interview Format:** 5 in-person focus groups, 3 video meetings, 1 participated in multiple formats
 
-![Participant Demographics Dashboard showing gender identity distribution, sexuality categories, race and ethnicity, interview styles, nonbinary identification, relationship styles, and key statistics for 9 participants in the Breaking Binaries study](./images/participant_demographics.png)
+![Participant Demographics Dashboard showing gender identity distribution, sexuality categories, race and ethnicity, interview styles, nonbinary identification, relationship styles, and key statistics for 9 participants in the Breaking Binaries study](../../assets/participant_demographics.png)
 
 This sample, while small, provided rich qualitative data about the intersecting experiences of gender nonconformity and lesbian identity on dating apps. The diversity in gender identities and relationship styles allowed for nuanced discussions about how different users navigate platform constraints.
 
