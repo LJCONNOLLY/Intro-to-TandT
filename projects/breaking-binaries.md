@@ -247,8 +247,6 @@ permalink: /projects/breaking-binaries/
 <!-- Project Details -->
 <div class="project-details">
   <div class="detail-item">
-  </div>
-  <div class="detail-item">
     <h3>Timeline</h3>
     <p>2024-2025</p>
   </div>
