@@ -1,3 +1,9 @@
+---
+layout: default
+title: Breaking Binaries
+permalink: /projects/breaking-binaries/
+---
+
 # BREAKING BINARIES
 
 ## User Research:
