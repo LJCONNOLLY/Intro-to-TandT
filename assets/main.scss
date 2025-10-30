@@ -3,6 +3,39 @@
 
 @import "minima";
 
+:root {
+  /* Greens - Nature */
+  --color-sage: #6B8E6B;
+  --color-forest: #4A7C59;
+  --color-olive: #7C8E5F;
+  --color-mint: #A8C5A0;
+  
+  /* Warm Earth Tones */
+  --color-terracotta: #D4735E;
+  --color-rust: #B85C4F;
+  --color-clay: #C49A7B;
+  --color-sand: #E8DCC4;
+  
+  /* Rich Neutrals */
+  --color-ochre: #D4A574;
+  --color-mustard: #C9A961;
+  --color-taupe: #9B8B7E;
+  --color-cream: #F5F0E8;
+  
+  /* Deep Accents */
+  --color-burgundy: #8B5A5A;
+  --color-plum: #7B6B7D;
+  --color-chocolate: #6B5447;
+  
+  /* Text & Backgrounds */
+  --color-text-dark: #4A3C2E;
+  --color-text-medium: #6B5D50;
+  --color-text-light: #8B7D70;
+  --color-bg-cream: #FAFAF8;
+  --color-bg-warm: #F5F3ED;
+  --color-white: #FFFFFF;
+}
+
 /* Earthy color palette */
 $sage-green: #9CAF88;
 $terracotta: #D4907A;
