@@ -263,6 +263,19 @@ permalink: /projects/breaking-binaries/
     <p>12 participants, 4 groups</p>
   </div>
 </div>
+## Study Participants
+
+Nine gender nonconforming lesbians participated in this study across four focus groups. Participants represented diverse gender identities including nonbinary, genderfluid, gender expansive, and gender questioning individuals. The majority identified as lesbian, with some participants also identifying as polyamorous or queer.
+
+**Sample Demographics:**
+- **Gender Identity:** 6 participants identified with "nonbinary" in their gender identity; 2 identified as genderfluid
+- **Race/Ethnicity:** 7 white participants, 2 participants of color (Black/Caribbean and Latinx)
+- **Relationship Style:** 4 did not specify, 3 polyamorous, 2 monogamous
+- **Interview Format:** 5 in-person focus groups, 3 video meetings, 1 participated in multiple formats
+
+![Participant Demographics Dashboard showing gender identity distribution, sexuality categories, race and ethnicity, interview styles, nonbinary identification, relationship styles, and key statistics for 9 participants in the Breaking Binaries study](./images/participant_demographics.png)
+
+This sample, while small, provided rich qualitative data about the intersecting experiences of gender nonconformity and lesbian identity on dating apps. The diversity in gender identities and relationship styles allowed for nuanced discussions about how different users navigate platform constraints.
 
 <!-- Context -->
 <h2 class="section-header">The Problem</h2>
