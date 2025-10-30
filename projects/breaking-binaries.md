@@ -420,7 +420,6 @@ This research investigates how gender nonconforming lesbians creatively navigate
 <div class="callout-box">
   <h4>Key Contributions</h4>
   <ul style="font-size: 1.3rem; line-height: 1.8;">
-    <li>Fills gap in academic literature on intersecting gender and sexual minority identities</li>
     <li>Provides evidence-based recommendations for inclusive dating app design</li>
     <li>Centers marginalized voices typically excluded from product development</li>
     <li>Demonstrates how qualitative research can drive design decisions</li>
@@ -444,7 +443,7 @@ This research investigates how gender nonconforming lesbians creatively navigate
     <p>Thematic coding, intersectional analysis, pattern identification across data sets</p>
   </div>
   <div class="finding-card">
-    <h3>Communication</h3>
+    <h3>Technical Communication</h3>
     <p>Translating complex findings into actionable insights, presenting to diverse audiences</p>
   </div>
 </div>
