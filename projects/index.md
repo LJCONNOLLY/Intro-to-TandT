@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects
+title: Selected UX Research Projects
 permalink: /projects/
 ---
 
-## Projects
+## Selected UX Research Projects
 
 ## [UX Research on Gender Nonconforming Lesbians on Dating Apps](/projects/breaking-binaries/)
 
