@@ -393,28 +393,6 @@ This research investigates how gender nonconforming lesbians creatively navigate
   </li>
 </ul>
 
-<!-- Impact -->
-<h2 class="section-header">Impact & Contributions</h2>
-
-<div class="impact-metrics">
-  <div class="metric-card">
-    <div class="number">12</div>
-    <div class="label">Participants</div>
-  </div>
-  <div class="metric-card">
-    <div class="number">4</div>
-    <div class="label">Focus Groups</div>
-  </div>
-  <div class="metric-card">
-    <div class="number">5</div>
-    <div class="label">Key Findings</div>
-  </div>
-  <div class="metric-card">
-    <div class="number">5</div>
-    <div class="label">Design Recommendations</div>
-  </div>
-</div>
-
 <div class="callout-box">
   <h4>Key Contributions</h4>
   <ul style="font-size: 1.3rem; line-height: 1.8;">
