@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="{{ '/assets/prof_pic.jpg' | relative_url }}" alt="LJ Connolly" class="profile-pic" style="display: block; margin: 2rem auto; width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
+<img src="{{ '/assets/prof_pic.svg' | relative_url }}" alt="LJ Connolly" class="profile-pic" style="display: block; margin: 2rem auto; width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
 
 # Hey! I'm LJ. 
 
@@ -34,7 +34,7 @@ Outside of research, you'll find me in my cottage in downtown Lakeland, Florida 
 
 <div class="portfolio-card">
   <a href="{{ site.baseurl }}/projects/neurodivergent-student-research/">
-    <img src="{{ '/assets/neurodivergent-students.jpg' | relative_url }}" alt="Neurodivergent Student Research">
+    <img src="{{ '/assets/neurodivergent-students.scg' | relative_url }}" alt="Neurodivergent Student Research">
     <h3>Neurodivergent Student Research</h3>
     <p>Exploring how neurodivergent students experience digital learning environments</p>
   </a>
