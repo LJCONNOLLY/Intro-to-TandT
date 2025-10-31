@@ -32,6 +32,15 @@ Outside of research, you'll find me in my cottage in downtown Lakeland, Florida 
   </a>
 </div>
 
+<div class="portfolio-card">
+  <a href="{{ site.baseurl }}/projects/neurodivergent-student-research/">
+    <img src="{{ '/assets/neurodivergent-students.jpg' | relative_url }}" alt="Neurodivergent Student Research">
+    <h3>Neurodivergent Student Research</h3>
+    <p>Exploring how neurodivergent students experience digital learning environments</p>
+  </a>
+</div>
+
+
 ---
 
 
