@@ -16,6 +16,8 @@ This UX research study revealed how popular dating app designs fail to serve gen
 
 ---
 
+# Neurodivergent Students and Best Digital Education Practices
+
 This UX research study explored how neurodivergent students experience digital learning environments, revealing critical barriers in sensory design, navigation, and communication tools. I developed accessibility-centered design recommendations to support cognitive diversity as a core principle rather than an accommodation.
 
 [Read the full UX portfolio page]({{ site.baseurl }}/projects/neurodivergent-student-research/)
