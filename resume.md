@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Resume
 permalink: /resume/
 ---
 
-Your CV content goes here....
+Your resume content goes here....
