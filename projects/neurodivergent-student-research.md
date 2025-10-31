@@ -248,7 +248,7 @@ permalink: /projects/neurodivergent-student-research/
 <div class="project-details">
   <div class="detail-item">
     <h3>Timeline</h3>
-    <p>2024</p>
+    <p>2026</p>
   </div>
   <div class="detail-item">
     <h3>Primary Methods</h3>
@@ -264,7 +264,7 @@ permalink: /projects/neurodivergent-student-research/
 <h2 class="section-header">The Problem</h2>
 
 <div class="callout-box">
-<p>Digital learning environments have become essential in higher education, but they're often designed with neurotypical users in mind. Learning Management Systems (LMS), video conferencing tools, and educational software frequently create barriers for neurodivergent students—those with ADHD, autism, dyslexia, and other cognitive differences.</p>
+<p>Digital learning environments have become essential in higher education, but they're often designed with neurotypical users in mind. Learning Management Systems (LMS), video conferencing tools, and educational software frequently create barriers for neurodivergent students—specifically focusing on those with ADHD, autism, and dyslexia.</p>
 
 <p>This research explores how neurodivergent students navigate these platforms, what challenges they face, and how educational technology can be redesigned to support cognitive diversity.</p>
 </div>
