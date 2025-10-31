@@ -12,7 +12,7 @@ permalink: /resume/
 }
 
 .download-btn {
-  margin: 2rem 0;
+  margin: 2rem 0 3rem 0;
 }
 
 .download-btn a {
@@ -31,13 +31,10 @@ permalink: /resume/
   background-color: #8B9A77;
 }
 
-.pdf-viewer {
-  width: 100%;
-  height: 1000px;
+.pdf-embed {
   border: none;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
   border-radius: 8px;
-  margin: 2rem 0;
 }
 </style>
 
@@ -47,4 +44,6 @@ permalink: /resume/
     <a href="{{ '/assets/resume.pdf' | relative_url }}" download>Download Resume (PDF)</a>
   </div>
 
-  <iframe
+  <iframe src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="1000px" class="pdf-embed"></iframe>
+
+</div>
